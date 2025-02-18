@@ -1,0 +1,19 @@
+{
+  "name": "minha_bib",
+  "version": "1.0.0",
+  "description": "Minha funcao de teste de biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "test": "mensagem()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciosalomao/minha_bib.git"
+  },
+  "author": "luciosalomao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciosalomao/minha_bib/issues"
+  },
+  "homepage": "https://github.com/Luciosalomao/minha_bib#readme"
+}
